@@ -44,14 +44,15 @@ Here are my most impactful data analytics projects (click to view repos):
 
 ---
 
-### 📚 Skill Libraries
-Organized repositories to showcase my expertise across tools:  
-- [SQL Projects](https://github.com/raoojashwani/sql-projects) → schema design, queries, optimization  
-- [Python Projects](https://github.com/raoojashwani/python-projects) → EDA, visualization, case studies  
-- [Power BI Dashboards](https://github.com/raoojashwani/powerbi-dashboards)  
-- [Tableau Dashboards](https://github.com/raoojashwani/tableau-dashboards)  
-- [Excel Projects](https://github.com/raoojashwani/excel-projects)  
-- *Coming soon*: [Statistics Notes](https://github.com/raoojashwani/statistics-notes) • [ML Lab](https://github.com/raoojashwani/ml-lab) • [AWS Lab](https://github.com/raoojashwani/aws-lab)  
+### 📊 Other Projects
+Additional projects that showcase my technical range and problem-solving ability:
+
+- **[Financial Fraud Detection](https://github.com/raoojashwani/financial-fraud-detection)** → SQL pipeline for data cleaning, Python ML model for classification, Power BI dashboard for fraud trend analysis.  
+- **[Customer Churn Prediction](https://github.com/raoojashwani/customer-churn-prediction)** → Forecasted churn using Python + Excel dashboards, enabling proactive retention strategies.  
+- **[Job Market Analytics](https://github.com/raoojashwani/job-market-analytics)** → Scraped 50K+ job postings, structured with SQL, and visualized hiring trends in Power BI.  
+- **[Smart City KPI Dashboard](https://github.com/raoojashwani/smart-city-kpi)** → Power BI dashboard integrating traffic, pollution, and energy data for real-time performance tracking.  
+- **[Climate & Air Quality Insights](https://github.com/raoojashwani/climate-airquality-analytics)** → Live AQI API integration with Python + Tableau to forecast pollution trends.  
+- **[Smart Mobility Analytics](https://github.com/raoojashwani/smart-mobility-analytics)** → SQL + Python + BI dashboard for analyzing urban mobility and reducing congestion.  
 
 ---
 
